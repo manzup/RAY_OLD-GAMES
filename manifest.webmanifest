@@ -1,0 +1,8 @@
+{
+  "name":"RAY Peli 3 – Tuplapotti",
+  "short_name":"RAY Peli 3",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#111111",
+  "theme_color":"#111111"
+}
